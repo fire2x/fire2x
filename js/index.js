@@ -899,7 +899,7 @@ document.getElementById('input').addEventListener('keypress', function (_ref18) 
 });
 
 shape.init();
-shape.print('BBAE');
+shape.print('FIRE2X');
 
 // prevent zoom
 document.addEventListener('touchmove', function (e) {return e.preventDefault();});
